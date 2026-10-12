@@ -1,0 +1,6 @@
+{
+  "name": "Aleyna's Ultimate Flix",
+  "description": "Batcave Wayne Enterprises Integrated Operations & Tactical Intelligence. Interactive setup wizard, network hardener, container manager, and workspace for Alfred, your active operations partner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
